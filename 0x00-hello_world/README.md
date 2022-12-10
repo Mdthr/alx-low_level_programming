@@ -1,1 +1,1 @@
-sizeof
+100-intel
