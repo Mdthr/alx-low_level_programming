@@ -3,7 +3,7 @@
 /**
  * main - Entry Point
  *
- * Return Aleays 0 (Seccss)
+ * Return: Aleays 0 (Seccss)
  */
 
 int main(void)
