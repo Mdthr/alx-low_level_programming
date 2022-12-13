@@ -1,4 +1,4 @@
-#include "maim.h"
+#include "main.h"
 
 /**
  * print_alphabet_x10 - Print Alph in 10
