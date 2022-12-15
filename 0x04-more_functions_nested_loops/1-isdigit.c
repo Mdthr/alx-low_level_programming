@@ -7,12 +7,10 @@
  */
 int _isdigit(int c)
 {
-	int x;
 
-	if (c >= 0 && c <= 9)
+	if (c >= '0' && c <= '9')
 	{
-		x = 1;
-		return (x);
+		return (1);
 	}
 	else
 	{
