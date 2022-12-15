@@ -1,1 +1,1 @@
-1-isdigit.c
+int mul(int a, int b)
