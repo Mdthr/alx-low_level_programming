@@ -1,4 +1,4 @@
-#include<sdtio.h>
+#include<sdio.h>
 
 /**
  * main - prime factors of 612852475143
