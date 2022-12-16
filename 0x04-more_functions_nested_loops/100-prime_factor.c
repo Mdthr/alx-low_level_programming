@@ -1,4 +1,4 @@
-#include<sdio.h>
+#include<stdio.h>
 
 /**
  * main - prime factors of 612852475143
