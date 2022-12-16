@@ -1,1 +1,1 @@
-print_line
+ print_diagonal
