@@ -1,1 +1,1 @@
-3-strcmp.c
+2-strncpy.c
