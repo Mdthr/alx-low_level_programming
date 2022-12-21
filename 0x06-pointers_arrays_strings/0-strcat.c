@@ -10,7 +10,6 @@ char *_strcat(char *dest, char *src)
 {
 	int a = 0;
 	int b = 0;
-	char z[];
 
 	while (dest[a] != '\0')
 		a++;
@@ -23,7 +22,6 @@ char *_strcat(char *dest, char *src)
 	}
 
 	dest[a] = '\0';
-	z[] = dest[a] + src[b];
 
 	return (0);
 }
