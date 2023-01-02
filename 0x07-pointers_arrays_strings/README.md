@@ -1,1 +1,1 @@
-0-memset.c
+function that locates a character in a string
