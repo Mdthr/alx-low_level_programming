@@ -1,1 +1,1 @@
-2-strlen_recursion.c
+function that returns the factorial of a given number
