@@ -1,1 +1,1 @@
-function that returns the factorial of a given number
+4-pow_recursion.c
