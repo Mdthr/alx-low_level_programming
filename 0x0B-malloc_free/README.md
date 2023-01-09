@@ -1,1 +1,1 @@
-function that concatenates two strings
+3-alloc_grid.c
