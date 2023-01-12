@@ -1,1 +1,1 @@
- function that concatenates two strings
+Write a function that creates an array of integers
