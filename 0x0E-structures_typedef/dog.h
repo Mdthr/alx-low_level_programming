@@ -8,10 +8,12 @@
  * @owner: Third member
  * Description: Longer description
  */
-struct god
+struct dog
 {
 	char *name;
 	float age;
 	char *owner;
 };
+
+
 #endif
