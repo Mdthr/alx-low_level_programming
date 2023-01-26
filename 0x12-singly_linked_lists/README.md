@@ -1,1 +1,1 @@
- function that prints all the elements of a list_t list
+Write a function that adds a new node at the beginning of a list_t list
